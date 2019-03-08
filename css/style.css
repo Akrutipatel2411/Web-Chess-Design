@@ -1,0 +1,30 @@
+htnl,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    background-color: black;
+}
+
+.white {
+    height: 80px;
+    width: 80px;
+    background-color: wheat;
+    display: inline-block;
+    
+}
+
+.black {
+    height: 80px;
+    width: 80px;
+    background-color: cadetblue;
+    display: inline-block;
+
+}
+
+.board {
+    height: 650px;
+    width: 650px;
+    margin: auto;
+
+}
